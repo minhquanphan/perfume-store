@@ -80,6 +80,7 @@ function Banner() {
   const handleMenuClose = () => {
     setAnchorEl(null);
   };
+
   return (
     <BannerContainer>
       <BannerContent>
